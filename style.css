@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.para-width{
+    max-width: 500px;
+}
+
+@media (min-width: 900px) {
+    .div-padding{
+        padding: 20px 60px;
+    }
+}
+
+.global-trade-div{
+    max-width: 500px;
+}
+
+.ceo-intro-div{
+    max-width: 500px;
+    border: 2px solid rgb(30, 111, 177);
+    padding: 20px;
+    border-radius: 8px;
+    background-color: rgb(255, 255, 240);
+}
+
+.ceo-intro-div h3{
+    color: rgb(206, 176, 7);
+}
+
+.getin-touch-div{
+    padding: 40px 0;
+    border-bottom: 1px solid rgb(68, 68, 68);
+    background-color: rgb(240, 244, 245);
+}
+
+footer{
+    padding: 50px 0;
+}
+
+.app-download{
+    text-decoration: none;
+    display: block;
+}
+
+.social-link{
+    text-decoration: none;
+    color: black;
+    display: block;
+}
+
+.social-link i{
+    font-size: 16px;
+}
+
+.social-link span{
+    margin-left: 5px;
+    font-size: 16px;
+}
+
+.footer-links{
+    text-decoration: none;
+    color: rgb(36, 35, 35);
+    display: block;
+}
+
+.terms-policy{
+    color: rgb(77, 77, 77);
+    font-size: 12px;
+}
+
+.copyright-para{
+    color: rgb(77, 77, 77);
+    font-size: 12px;
+}
